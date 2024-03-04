@@ -1,4 +1,4 @@
 <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/Shivasengar12/SHUKLA-ROBOT">
+    <a href="https://heroku.com/deploy?template=https://github.com/Shivasengar12/Nyka">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
     </a>
